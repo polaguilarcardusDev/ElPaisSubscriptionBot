@@ -4,13 +4,6 @@
 
 En este proyecto, se implementa una aplicación de consola en C# que automatiza la interacción con la página web "elpais.com". La aplicación está diseñada para navegar a la página principal, aceptar las cookies, y hacer clic en el botón "Suscríbete".
 
-### 🧩 Se valorarán:
-
-- Limpieza del código
-- Comentarios explicativos
-- Estructura del código
-- Control de errores
-
 ## 🛠️ Entorno
 
 - **Lenguaje:** C#
@@ -23,7 +16,7 @@ En este proyecto, se implementa una aplicación de consola en C# que automatiza 
 
 ## 📝 Descripción
 
-El programa deberá realizar las siguientes acciones:
+El programa realiza las siguientes acciones:
 
 1. Entrar a la página "elpais.com".
 2. Aceptar las cookies (si se presentan).
