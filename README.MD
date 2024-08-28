@@ -29,7 +29,6 @@ El programa deberá realizar las siguientes acciones:
 2. Aceptar las cookies (si se presentan).
 3. Hacer clic en el botón **"Suscríbete"**.
 
-> **Nota:** La versión de Chrome a utilizar queda a tu elección. También es posible hacer que el programa verifique la versión de Chrome instalada en el equipo antes de proceder.
 
 ## 🚀 Ejecución
 
