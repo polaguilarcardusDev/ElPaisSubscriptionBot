@@ -12,7 +12,7 @@ En este proyecto, se implementa una aplicación de consola en C# que automatiza 
 
 ## 📚 Librería
 
-- **Selenium**
+- **Selenium** (ChromeDriver)
 
 ## 📝 Descripción
 
