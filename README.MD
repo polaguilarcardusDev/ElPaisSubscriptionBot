@@ -12,15 +12,15 @@ En este proyecto, se implementa una aplicación de consola en C# que automatiza 
 
 ## 📚 Librería
 
-- **Selenium** (u otro WebDriver que trabaje con Chrome)
+- **Selenium**
 
 ## 📝 Descripción
 
 El programa realiza las siguientes acciones:
 
-1. Entrar a la página "elpais.com".
-2. Aceptar las cookies (si se presentan).
-3. Hacer clic en el botón **"Suscríbete"**.
+1. Entra en la página "elpais.com".
+2. Acepta las cookies (si se presentan).
+3. Realiza el clic en el botón **"Suscríbete"**.
 
 
 ## 🚀 Ejecución
